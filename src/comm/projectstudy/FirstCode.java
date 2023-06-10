@@ -6,6 +6,7 @@ public class FirstCode {
 		System.out.println("Fist Git push code: ");
         System.out.println("Updated Code");
         System.out.println("Next Updated: ");
+        System.out.println("Third Updated: ");
 		
 	}
 
